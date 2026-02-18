@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://downeyplumbingco.com/sitemap.xml
